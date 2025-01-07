@@ -26,7 +26,7 @@ O Ebook gerado no Gamma App atendeu ao propósito do exercício, podendo ser mel
 Foi um desafio aprender como usar o Github, não é nada intuitivo para leigos.
 Neste desafio pude comprovar que a utilização de prompts bem escritos fazem toda diferença na obtenção de resultados mais naturais.
 
-### Exemplos e Insigths
+### Resultados Gerados
 - Podcast: https://notebooklm.google.com/notebook/8905e025-b062-486e-a23f-85d908f16a80/audio
 - Ebook: https://gamma.app/docs/3v8g11bsu1ra2z2?following_id=opw9cmn0cw5cyrn&follow_on_start=true
 - Vídeo: https://studio.did.com/share?id=65d9a7af318072fd2fd49dfa1e6336c7&utm_source=copy
